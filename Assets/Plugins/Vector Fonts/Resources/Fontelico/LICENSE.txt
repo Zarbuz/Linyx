@@ -1,0 +1,11 @@
+Licence
+-------
+
+Font is distributed under
+[SIL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) licence.
+
+All icons are distributed under
+[CC BY](http://creativecommons.org/licenses/by-sa/3.0/) licence.
+
+We suggest to use this font via [fontello](http://fontello.com) project, but
+you also can materials in any other way, if follow license.
